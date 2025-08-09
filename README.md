@@ -41,8 +41,10 @@ The user interface is designed with a minimalistic layout, responsive grid syste
 
 ![Screenshot1](<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8f8e3505-1e2c-4d9b-b763-c72b9979319a" />)
 interface
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1a0ba6da-f812-49a2-a013-3dd4536b3286" />
-<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/fb6170cf-7ad4-4c66-9633-b489fc6a55fd" />
+![Screenshot2](  <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1a0ba6da-f812-49a2-a013-3dd4536b3286" />)
+infinite questions
+![Screenshot2] (<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/fb6170cf-7ad4-4c66-9633-b489fc6a55fd" />)
+results
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/69de535d-66d9-4c74-b6a8-5a72668a4957" />
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/fd2fefa6-c8bd-4655-9ee1-a1618a1e2087" />
 
