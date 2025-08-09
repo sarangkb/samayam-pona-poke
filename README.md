@@ -35,9 +35,12 @@ The user interface is designed with a minimalistic layout, responsive grid syste
 - Frameworks: Next.js  
 - Libraries: React, [any others]  
 - Tools: pnpm, Vercel (for deployment)
+- Team Contributions
+    Sarang: Co-developed the core logic, crafted the never-ending loading screen magic, and added witty touches to the UI.
+    Aksa: Co-developed the core logic, perfected the poke timing, and designed the hilariously relatable loading animations.
 
-images 
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8f8e3505-1e2c-4d9b-b763-c72b9979319a" />
+![Screenshot1](<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8f8e3505-1e2c-4d9b-b763-c72b9979319a" />)
+interface
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1a0ba6da-f812-49a2-a013-3dd4536b3286" />
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/fb6170cf-7ad4-4c66-9633-b489fc6a55fd" />
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/69de535d-66d9-4c74-b6a8-5a72668a4957" />
